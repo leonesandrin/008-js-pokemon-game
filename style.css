@@ -1,3 +1,9 @@
+body{
+
+background-image: url(VwutAMYl.gif);
+  background-size: cover;
+}
+
 .character{
   width: 100px;
   height: 100px;
@@ -11,6 +17,7 @@
 .jump{
   animation: jump 1000ms forwards;
 }
+
 
 
 @keyframes  jump {
